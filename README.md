@@ -9,7 +9,7 @@ HELLO WORLD! I am Mohammed Thareeq ,an engineering pursuing bachelor of technolo
  
  Phone/whatsapp/telegram: +917403427561 
  
- To view my LinkedIn proile [click here](https://www.linkedin.com/feed/?trk=)
+ To view my LinkedIn proile [click here]( https://www.linkedin.com/in/mohammed-thareeq-a34884141/)
 
 # FABLAB
 
