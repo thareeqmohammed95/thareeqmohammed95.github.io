@@ -11,7 +11,8 @@ HELLO WORLD! I am Mohammed Thareeq ,an engineering pursuing bachelor of technolo
  
  To view my LinkedIn proile [click here]( https://www.linkedin.com/feed/?trk=)
 
-
+# FABLAB
+<img src="LR-5.jpg" height="300" width="500"
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
