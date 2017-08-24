@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/thareeqmohammed95/thareeqmohammed95.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HELLO WORLD! I am Mohammed Thareeq ,an engineering pursuing bachelor of technology in mechanical engineering at MESCE Kuttipuram,Malapuram.I am from
+ Palakkad,Kerala,India.
+ 
+## Contact 
+ 
+ E-mail:thareeqmohammed770@gmail.com
+ 
+ Phone/whatsapp/telegram: +917403427561 
+ 
+ To view my LinkedIn proile [click here]( https://www.linkedin.com/feed/?trk=)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
