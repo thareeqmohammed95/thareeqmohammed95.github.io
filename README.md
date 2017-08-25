@@ -31,13 +31,16 @@ which provide broad manufacturing capability, including precision laser
  
   Fab Lab @ MESCE , Kuttippuram is the only fab lab in the Malabar Zone . A training session was conducted for the students of the 
   college in the month of august 2017 in order to make us familirized with the machines and to help us explore about new technologies .  
-  ### DAY 1- 
- - [Introduction to Fab Lab](https://thareeqmohamme95.github.io/mescefablab.github.io/)
+ 
+## SYLLABUS<br>
 
- - [Introduction to software used and Documentation](https://thareeqmohammed95.github.io/software.github.io/)
+Day 1 : Introduction to Fablab <br><br>
 
+      : Github Pages and Documentation<br><br>
+      
+Day 2 : Electronics Production and CNC<br><br>
+                               
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
